@@ -1,0 +1,17 @@
+# Ignore OS generated files
+.DS_Store
+.DS_Store?
+desktop.ini
+
+# Ignore editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore node modules
+node_modules/
+
+# Ignore build directories
+dist/
+build/
