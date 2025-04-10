@@ -27,7 +27,7 @@ start index.html # On Windows
 
 ## Documentation
 
-Full documentation is available at [docs.gemini-devkit.com](https://docs.gemini-devkit.com)
+Full documentation is available in the [Gemini-DevKit-Docs](Gemini-DevKit-Docs/index.html) directory
 
 ## Contributing
 
